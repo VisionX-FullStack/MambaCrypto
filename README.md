@@ -1,4 +1,4 @@
-# MambaCrypto: Selective state space model for crypto prediction
+# MambaVNX: Selective state space model for stock and crypto price prediction
 
 Mamba (Structured state space sequence models with selection mechanism and scan module, S6) has achieved remarkable success in sequence modeling tasks. This paper proposes a Mamba-based model to predict the stock price.
 
